@@ -1,0 +1,16 @@
+
+*{
+	box-sizing:border-box;
+}
+.back {
+	margin-top: 0;
+text-align: right;
+display: inline-block;
+position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.one {
+height: 100%;
+}
